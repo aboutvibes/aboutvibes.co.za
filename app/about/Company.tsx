@@ -11,7 +11,7 @@ const Company = () => {
           providing customers with products of a consistently high standard.
         </p>
         <p className="my-4 text-gray-600">
-          The company sell and deliver direct to the customer's door-step. Our
+          The company sell and deliver direct to the customers door-step. Our
           flagship product is 12.5kg Maize meal, available on cash or credit.
           The company is striving to have an hamper as a flagship product of the
           company, instead of a singular product.
